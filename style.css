@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F5F4F0;
+    font-family: 'Open Sans', sans-serif; /* Aplicando corretamente a fonte Open Sans */
+}
+
+#about {
+    width: 1120px;
+    margin-top: 88px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+#page {
+    width: 1120px;
+    margin: auto;
+    padding: 8px;
+}
+
+h4 {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold; /* Correção do font-size e font-weight */
+    font-family: sans-serif;
+    margin-bottom: 8px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #1B1B1B;
+}
+
+#imagem-description {
+    padding: 0px 4px 0px 4px;
+}
+
+#img-descript{
+    font-size: 16px;
+    color: #333333;
+    text-align: center;
+    font-style: italic;
+    margin: 4px 80px 44px 80px;
+}
+
+#title-list {
+    margin-top: 64px;
+    margin-bottom: 64px;
+    width: 1120px;
+    text-align: left;
+    color: #333333;
+    line-height: 150%;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+#feed {
+    width: 1120px;
+    line-height: 150%;
+    margin: 64px auto;
+}
+
+#feed img {
+    margin-bottom: 20px;
+}
+
+#feed ol li {
+    width: 453px;
+    text-align: left;
+    font-size: 28px;
+    color: #1B1B1B;
+    margin-left: 45px;
+    margin-bottom: 4px;
+}
+
+span {
+    font-size: 16px;
+    font-weight: bold; /* Corrigido de "font" para "font-weight" */
+    color: #333333;
+    font-family: 'Open Sans', serif; /* Garantir que o nome da fonte esteja correto */
+}
+
+ul li {
+    margin-top: 10px;
+    margin-left: 18px;
+    width: 453px;
+    font-weight: bold; /* Corrigido de "font" para "font-weight" */
+    font-size: 16px;
+    color: #0C51A7;
+}
+
+#dif {
+    color: #E5245E;
+}
+
+#dife {
+    color: #E95E10;
+}
+
+#description {
+    text-align: center;
+    font-size: 16px;
+    color: #333333
+}
